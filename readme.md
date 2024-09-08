@@ -10,6 +10,7 @@ git clone https://github.com/pirotexnic/duckCFA.git
 
 ### **Способ 1**
 
+Вам придется каждый раз вводить команды 
 ```
 cd duckCFA
 python3 search7.py
