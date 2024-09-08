@@ -1,4 +1,4 @@
-### **Установка 
+### **Установка**
 
 git clone https://github.com/pirotexnic/duckCFA.git
 
