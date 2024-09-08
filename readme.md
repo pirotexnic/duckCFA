@@ -17,6 +17,10 @@ python3 search7.py
 ### **Способ 2**
 
 ```
+cd duckCFA
+chmod +x duckCFA
+mv duckCFA ~/bin/
+duckCFA
 ```
 
 
