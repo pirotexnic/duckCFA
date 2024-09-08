@@ -1,4 +1,4 @@
-![howitwork](https://ibb.co/8DNH8LPV)
+[![Screenshot-20240909-015128.jpg](https://i.postimg.cc/25P7zjh1/Screenshot-20240909-015128.jpg)](https://postimg.cc/67fvcXHK)
 
 # **Для начала**
 
