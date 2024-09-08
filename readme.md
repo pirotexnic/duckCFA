@@ -14,7 +14,10 @@ git clone https://github.com/pirotexnic/duckCFA.git
 cd duckCFA
 python3 search7.py
 ```
+### **Способ 2**
 
+```
+```
 
 
 
