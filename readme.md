@@ -6,9 +6,9 @@
 git clone https://github.com/pirotexnic/duckCFA.git
 ```
 
-### **Использование**
+## **Использование**
 
-## Способ 1
+### Способ 1
 
 ```
 cd duckCFA
