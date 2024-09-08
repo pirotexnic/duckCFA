@@ -17,13 +17,16 @@ python3 search7.py
 ```
 ### **Способ 2**
 
+Вы должны ввести эти команды 
 ```
 cd duckCFA
 chmod +x duckCFA
 mv duckCFA ~/bin/
+```
+А потом запускаете скрипт с помощью 
+```
 duckCFA
 ```
-
 
 
 
